@@ -1,0 +1,14 @@
+# Compiled binary
+student_management
+student_management.exe
+
+# Data file (optional: remove this line if you want to include sample data)
+students.dat
+
+# Build artifacts
+*.o
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db
